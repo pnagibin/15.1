@@ -1,0 +1,1 @@
+export PATH=$PATH:/home/pnagibin/netology/ter-homeworks/
